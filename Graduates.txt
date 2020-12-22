@@ -1,0 +1,16 @@
+                 last            first   year   month  degree            major
+id                                                                            
+36456   Cucumberpatch         Bunnyboy   2012       7     Bsc           acting
+98765            Wash            Hoban   2012      12     PhD            pilot
+56565           Obama           Barack   2012      12     PhD         politics
+66666            Name           Holder   2019       7     Bsc          Physics
+98989            Test           Person   2019       6     PhD          Physics
+12345            Abel           Tasman   2020      12     Bsc        astronomy
+54321            Cook          Captain   2020      12     Bsc          weather
+10001         Hillary       Sir Edmund   2020       7     PhD   mountaineering
+10000           Putin         Vladimir   2020      12     PhD             math
+10101          Sherpa   Tenzing Norgay   2020       7     PhD   mountaineering
+77777         Someone             Here   2020      10     Bsc          cooking
+36456   Cucumberpatch         Bunnyboy   2012       7     Bsc           acting
+98765            Wash            Hoban   2012      12     PhD            pilot
+56565           Obama           Barack   2012      12     PhD         politics
